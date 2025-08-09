@@ -29,13 +29,13 @@
 
 ## 📌 Featured Projects
 
-### 🏋️‍♂️ [NutriFlow](https://github.com/aperez-999/nutriflow) *(Full-Stack MERN App)*  
+### 🏋️‍♂️ [NutriFlow](https://nutriflowdev.vercel.app/) *(Full-Stack MERN App)*  
 Fitness & nutrition platform with workout planner, food tracking, and analytics dashboard.  
 - Served **50+ active users** within 3 months of launch  
 - Optimized queries and caching for **40% faster load times** and **25% higher retention**  
 - Mobile-first UI built with React & Tailwind CSS  
 
-### 🏥 [Trusted Health Rates](https://github.com/aperez-999/trusted-health-rates)  
+### 🏥 [Trusted Health Rates](https://aperez-999.github.io/health-insurance-app/)  
 Health insurance quoting platform for policy comparisons and user engagement.  
 - Increased organic traffic by **60%** with SEO and metadata optimization  
 - Boosted lead interactions by **45%** and conversion rates by **30%**  

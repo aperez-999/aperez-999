@@ -93,7 +93,7 @@ Platform designed to streamline health insurance quoting and improve policy comp
 # 📫 Let's Connect
 
 🌐 **Portfolio:**  
-https://aperez-999.github.io/personal-portfolio  
+https://alejandroperezrivero.dev/
 
 💼 **LinkedIn:**  
 https://linkedin.com/in/aperezrivero  

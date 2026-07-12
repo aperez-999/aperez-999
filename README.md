@@ -124,14 +124,16 @@
 
 ## 📌 Featured Projects
 
-### 🚀 [Offervia v2.1](https://offervia.app) — AI-Powered Career SaaS Platform
-`Next.js` `TypeScript` `Supabase` `Stripe` `OpenAI API` `Groq API` `Tailwind CSS`
-> Production-ready AI career suite delivering advanced context-aware optimizations and high-velocity workflows.
+### 🚀 [Offervia v2.2](https://offervia.app) — Enterprise-Grade AI Career Platform
+`Next.js 15` `TypeScript` `Supabase` `Stripe` `Groq API` `Sentry` `Tailwind CSS` `Framer Motion`
+> Production-hardened AI career suite delivering intelligent document generation, interview simulation, and ATS optimization with premium UX.
 
-- **v2.1 Architecture:** Rolled out upgraded system architecture optimizing core agent response speed and metadata processing.
-- **Pro Infrastructure:** Implemented scalable Stripe subscription gating, usage-based multi-tier analytics, and robust feature flag mechanics.
-- **Intelligent Workflows:** Designed automated AI agent layers for high-fidelity resume alignment, simulated interview loops, and structural job analysis.
-- **Active Development:** Continually deploying new features, expanded LLM pipelines, and custom tracking modules via automated edge webhooks and serverless infrastructure.
+- **v2.2 Production Release:** Shipped comprehensive UI/UX transformation featuring interactive self-driving product demos, ambient motion design, and touch-optimized responsive layouts adhering to WCAG accessibility standards.
+- **Premium Feature Suite:** Engineered multi-modal AI pipelines for real-time interview coaching, context-aware cover letter generation with PDF export, ATS keyword scanning, and per-application workspace management with document version control.
+- **Security & Performance:** Implemented production-hardened Content Security Policy, optimized 26 Row-Level Security policies for sub-query execution, consolidated storage access patterns, and integrated full-stack Sentry error tracking with client-side exception forwarding.
+- **Database Architecture:** Executed comprehensive Supabase audit eliminating orphaned tables, pinning immutable search paths on security-critical functions, and dropping duplicate indexes—achieving zero advisor violations across 10 normalized tables.
+- **Subscription Infrastructure:** Deployed Stripe-gated Pro tier with usage metering, webhook-driven subscription state management, and granular feature flags enabling controlled rollout of premium capabilities.
+- **Developer Experience:** Maintained 100% TypeScript type coverage, zero-warning builds, and comprehensive E2E test suites via Playwright ensuring deployment confidence across 190+ modified files.
 
 ### 🏋️ [NutriFlow](https://nutriflowdev.vercel.app/) — AI Fitness & Nutrition Platform
 `React` `Node.js` `Express` `MongoDB` `JWT` `Groq API`
@@ -143,10 +145,10 @@
 
 ### ❤️ [Corazones Vivos Inc.](https://corazonesvivos.org) — Nonprofit Outreach Platform
 `Next.js` `TypeScript` `Tailwind CSS` `SEO` `Vercel`
-> Open-access non-profit hub helping manage regional resource scheduling, community tracking, and event routing.
+> Open-access non-profit hub managing regional resource coordination, community engagement, and event logistics.
 
-- Directed absolute lifecycle hosting setup encompassing manual DNS handling, Vercel multi-branch CI/CD configs, and precise crawl index SEO.
-- Maximized organizational visibility via fluid, structurally semantic layout paradigms.
+- Architected full-stack deployment pipeline with DNS configuration, multi-environment Vercel CI/CD workflows, and SEO optimization achieving top-tier crawl indexing.
+- Designed accessible, semantically structured layouts maximizing organizational reach and community impact.
 
 <br/>
 

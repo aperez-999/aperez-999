@@ -1,10 +1,10 @@
 <div align="center">
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DB47D&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI+Software+Engineer;Building+scalable+SaaS+%2B+AI+products;FIU+Honors+College+%7C+Miami%2C+FL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DB47D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Enterprise+%26+AI;Building+scalable+SaaS+%2B+AI+products;FIU+Honors+College+%7C+Miami%2C+FL" alt="Typing SVG" />
 
 # 🏎️ Alejandro Perez-Rivero
-**Full-Stack & AI Software Engineer**  
-*Building scalable SaaS platforms, high-performance AI workflows, and modern web experiences.*
+**Software Engineer | Enterprise Systems, Full-Stack & AI**  
+*Building scalable SaaS platforms, enterprise applications, and production AI workflows.*
 
 ` 🔰 High-Efficiency Engineering. Performance-Driven Code. `
 
@@ -24,10 +24,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Computer Science** @ FIU Honors College — Miami, FL
-- 🚀 Currently building **[Offervia](https://offervia.app)**, a production AI-powered career SaaS platform
-- 🧠 Focused on **AI/LLM engineering**, autonomous agent workflows, and clean full-stack product architecture
-- 🤝 Open to collaboration — **software engineering internships, AI roles, startups, and open-source**
-- 💬 Ask me about **Next.js, TypeScript, LLM orchestration, or shipping SaaS from zero to prod**
+- 🚀 Currently building **[Offervia](https://offervia.app)**, a production career SaaS platform with LLM-powered workflows
+- 🛳 Recently built enterprise shipboard crew-management features at **Royal Caribbean Group**
+- 🧠 Focused on **enterprise software**, AI/LLM engineering, full-stack architecture, and production SaaS systems
+- 🤝 Open to collaboration — **software engineering roles, AI products, startups, and open-source**
+- 💬 Ask me about **Next.js, TypeScript, Java/Spring Boot, LLM orchestration, or shipping SaaS from zero to prod**
 
 <br/>
 
@@ -62,6 +63,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring WebFlux" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=lightning&logoColor=white" alt="Groq" />
   <img src="https://img.shields.io/badge/LLM_Orchestration-2DB47D?style=flat-square&logo=probot&logoColor=white" alt="LLM" />
@@ -72,8 +74,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
   <img src="https://img.shields.io/badge/Linux%20%2F%20Unix-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
@@ -107,14 +111,21 @@
 
 ## 🚀 Professional Experience
 
+### 🛳 Royal Caribbean Group — IT Enterprise Products Quality Shipboard Engineer Intern
+*Summer 2026 | Miramar, FL*
+- Developed and shipped **production full-stack features** for Royal Caribbean's Crew Management platform using **Next.js, React, TypeScript, Reactive Java, Spring Boot, and MariaDB**
+- Owned **end-to-end development** across frontend, backend, BFF, and database layers for enterprise shipboard crew-management workflows
+- Built workforce-management capabilities supporting global crew operations, including **Position Hierarchy**, **Voyage Planning**, **Kitchen Number**, and **Supervisor Resolution**
+- Designed **REST APIs**, **Flyway migrations**, reactive services, and scalable data models for enterprise applications
+- Partnered with product managers, UX designers, architects, and senior engineers through Agile development, technical design reviews, and production deployments
+
 ### 🛳 Boats Group — Software Developer Intern
 *Summer 2025 | Miami, FL*
-- Shipped **10+ production features** in the Listings Editor using **React, TypeScript, Node.js, Tailwind CSS**
-- Enhanced **photo-upload UX** and resolved **CORS/image bugs**, cutting invalid submissions by **80%**
-- Led **Private Seller Analytics**, integrating real-time metrics with **Kameleoon A/B testing**
-- Built scalable analytics infrastructure with **container architecture and backend APIs**
-- Leveraged **AWS S3** for asset delivery, reducing image-load latency by **20%**
-- Collaborated in **Agile sprints** — Jira tickets, GitHub PRs, QA workflows, and full-stack integration
+- Delivered **10+ production features** using **React, TypeScript, Node.js, and Tailwind CSS**
+- Improved **photo-upload UX** and resolved **CORS/image bugs**, reducing invalid submissions by **80%**
+- Built and launched **Private Seller Analytics**, integrating real-time metrics and **Kameleoon A/B testing**
+- Leveraged **AWS S3** for media delivery, reducing image-load latency by **20%**
+- Collaborated in Agile sprints using **Jira**, GitHub pull requests, QA workflows, and full-stack integration
 
 <br/>
 
@@ -158,7 +169,7 @@
 
 ## 🏁 Let's Build Together
 
-I'm always looking to tackle complex engineering problems, dive into automated AI logic, or build fast-scaling production software.
+I'm always looking to tackle complex engineering problems, build production AI workflows, and ship scalable full-stack software.
 
 <div align="center">
 <br/>
@@ -170,5 +181,5 @@ I'm always looking to tackle complex engineering problems, dive into automated A
 <br/>
 <br/>
 
-🏁 **Open to software engineering internships, AI roles, startup products, and full-stack system architecture.**
+🏁 **Open to software engineering roles, AI products, startup systems, and full-stack architecture.**
 </div>

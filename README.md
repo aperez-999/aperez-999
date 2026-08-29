@@ -159,7 +159,7 @@
 > Open-access non-profit hub managing regional resource coordination, community engagement, and event logistics.
 
 - Architected full-stack deployment pipeline with DNS configuration, multi-environment Vercel CI/CD workflows, and SEO optimization achieving top-tier crawl indexing.
-- Designed accessible, semantically structured layouts maximizing organizational reach and community impact.
+- Designed accessible/semantically structured layouts maximizing organizational reach and community impact.
 
 <br/>
 

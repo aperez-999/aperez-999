@@ -1,16 +1,16 @@
 <div align="center">
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DB47D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Enterprise+%26+AI;Building+scalable+SaaS+%2B+AI+products;FIU+Honors+College+%7C+Miami%2C+FL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DB47D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+%26+iOS;Incoming+Associate+SWE+%40+RCG+%7C+Jan+2027;Building+NutriFlow+for+Web+%2B+iOS" alt="Typing SVG" />
 
 # 🏎️ Alejandro Perez-Rivero
-**Software Engineer | Enterprise Systems, Full-Stack & AI**  
-*Building scalable SaaS platforms, enterprise applications, and production AI workflows.*
+**Software Engineer | Full-Stack & iOS Development**  
+*Incoming Associate Software Engineer at Royal Caribbean Group — January 2027.*
 
-` 🔰 High-Efficiency Engineering. Performance-Driven Code. `
+` 🔰 Building for the web. Learning through mobile. `
 
 <br/>
 
-<a href="https://alejandroperezrivero.dev/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://alejandroperezrivero.tech/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/aperezrivero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alexperezr456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=aperez-999&style=for-the-badge&color=2DB47D&label=RPM+VIEWS" alt="Profile views" />
@@ -23,12 +23,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Computer Science** @ FIU Honors College — Miami, FL
-- 🚀 Currently building **[Offervia](https://offervia.app)**, a production career SaaS platform with LLM-powered workflows
-- 🛳 Recently built enterprise shipboard crew-management features at **Royal Caribbean Group**
-- 🧠 Focused on **enterprise software**, AI/LLM engineering, full-stack architecture, and production SaaS systems
-- 🤝 Open to collaboration — **software engineering roles, AI products, startups, and open-source**
-- 💬 Ask me about **Next.js, TypeScript, Java/Spring Boot, LLM orchestration, or shipping SaaS from zero to prod**
+- 🎓 I'm studying **Computer Science at FIU Honors College**, graduating in **December 2026**
+- 🛳 I'm returning to **Royal Caribbean Group as an Associate Software Engineer in January 2027**, after interning there this summer
+- 📱 I'm working on **[NutriFlow](https://nutriflowdev.vercel.app/)** and building its native **iOS app with Swift**
+- 🚀 I built **[Offervia](https://offervia.app)** to help with resume tailoring, interview practice, and keeping track of job applications
+- 🧠 Most of my work is in **React, Next.js, TypeScript, and Java/Spring Boot**. Lately, I've been spending more time with **Swift**
+- 🤝 I'm open to working with others on **open-source projects, developer tools, and web or mobile apps**
 
 <br/>
 
@@ -36,10 +36,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🛠️ Tech Stack & Engineering Core
+## 🛠️ Tech Stack
 
-### ⚡ Core Languages
+### ⚡ Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&gradient=true&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -49,7 +50,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 🎨 Architecture & Frontend
+### 🎨 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -58,7 +59,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-### ⚙️ Backend & Intelligent Systems (AI)
+### ⚙️ Backend & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -69,7 +70,7 @@
   <img src="https://img.shields.io/badge/LLM_Orchestration-2DB47D?style=flat-square&logo=probot&logoColor=white" alt="LLM" />
 </p>
 
-### 🗺️ Infrastructure & Cloud Systems
+### 🗺️ Databases, Cloud & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -88,7 +89,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 📊 Performance Telemetry (GitHub Stats)
+## 📊 GitHub Stats
 
 <div align="center">
   <!-- Symmetrically bound two-card horizontal grid using alternative reliable backend servers -->
@@ -113,19 +114,19 @@
 
 ### 🛳 Royal Caribbean Group — IT Enterprise Products Quality Shipboard Engineer Intern
 *Summer 2026 | Miramar, FL*
-- Developed and shipped **production full-stack features** for Royal Caribbean's Crew Management platform using **Next.js, React, TypeScript, Reactive Java, Spring Boot, and MariaDB**
-- Owned **end-to-end development** across frontend, backend, BFF, and database layers for enterprise shipboard crew-management workflows
-- Built workforce-management capabilities supporting global crew operations, including **Position Hierarchy**, **Voyage Planning**, **Kitchen Number**, and **Supervisor Resolution**
-- Designed **REST APIs**, **Flyway migrations**, reactive services, and scalable data models for enterprise applications
-- Partnered with product managers, UX designers, architects, and senior engineers through Agile development, technical design reviews, and production deployments
+- Shipped features for Royal Caribbean's **Crew Management platform** using **Next.js, React, TypeScript, Java, Spring Boot, and MariaDB**
+- Worked across the frontend, backend, BFF, and database, taking features from design through deployment
+- Built crew-management features including **Position Hierarchy**, **Voyage Planning**, **Kitchen Number**, and **Supervisor Resolution**
+- Wrote **REST APIs**, reactive services, **Flyway migrations**, and database models
+- Worked with product managers, UX designers, architects, and senior engineers on design reviews and production releases
 
 ### 🛳 Boats Group — Software Developer Intern
 *Summer 2025 | Miami, FL*
 - Delivered **10+ production features** using **React, TypeScript, Node.js, and Tailwind CSS**
 - Improved **photo-upload UX** and resolved **CORS/image bugs**, reducing invalid submissions by **80%**
 - Built and launched **Private Seller Analytics**, integrating real-time metrics and **Kameleoon A/B testing**
-- Leveraged **AWS S3** for media delivery, reducing image-load latency by **20%**
-- Collaborated in Agile sprints using **Jira**, GitHub pull requests, QA workflows, and full-stack integration
+- Used **AWS S3** for media delivery, reducing image-load latency by **20%**
+- Worked in Agile sprints, reviewed GitHub pull requests, and coordinated testing with QA
 
 <br/>
 
@@ -135,31 +136,32 @@
 
 ## 📌 Featured Projects
 
-### 🚀 [Offervia v2.2](https://offervia.app) — Enterprise-Grade AI Career Platform
+### 🚀 [Offervia v2.2](https://offervia.app) — Career Platform
 `Next.js 15` `TypeScript` `Supabase` `Stripe` `Groq API` `Sentry` `Tailwind CSS` `Framer Motion`
-> Production-hardened AI career suite delivering intelligent document generation, interview simulation, and ATS optimization with premium UX.
+> A job-search app for tailoring resumes, practicing interviews, and organizing applications.
 
-- **v2.2 Production Release:** Shipped comprehensive UI/UX transformation featuring interactive self-driving product demos, ambient motion design, and touch-optimized responsive layouts adhering to WCAG accessibility standards.
-- **Premium Feature Suite:** Engineered multi-modal AI pipelines for real-time interview coaching, context-aware cover letter generation with PDF export, ATS keyword scanning, and per-application workspace management with document version control.
-- **Security & Performance:** Implemented production-hardened Content Security Policy, optimized 26 Row-Level Security policies for sub-query execution, consolidated storage access patterns, and integrated full-stack Sentry error tracking with client-side exception forwarding.
-- **Database Architecture:** Executed comprehensive Supabase audit eliminating orphaned tables, pinning immutable search paths on security-critical functions, and dropping duplicate indexes—achieving zero advisor violations across 10 normalized tables.
-- **Subscription Infrastructure:** Deployed Stripe-gated Pro tier with usage metering, webhook-driven subscription state management, and granular feature flags enabling controlled rollout of premium capabilities.
-- **Developer Experience:** Maintained 100% TypeScript type coverage, zero-warning builds, and comprehensive E2E test suites via Playwright ensuring deployment confidence across 190+ modified files.
+- Built resume tailoring, interview coaching, cover letter generation with PDF export, and job keyword scanning
+- Added workspaces to keep application documents and their versions together
+- Set up **Stripe subscriptions**, usage limits, and webhooks to keep billing status in sync
+- Updated Supabase access policies, removed unused tables and duplicate indexes, and added **Sentry** error reporting
+- Improved the mobile layouts and product demos, and added **Playwright** tests for key app flows
 
-### 🏋️ [NutriFlow](https://nutriflowdev.vercel.app/) — AI Fitness & Nutrition Platform
-`React` `Node.js` `Express` `MongoDB` `JWT` `Groq API`
-> AI-driven health system focusing on structural optimization of workout plans and calorie ingestion analysis.
+### 🏋️ [NutriFlow](https://nutriflowdev.vercel.app/) — Fitness, Nutrition & Readiness | Web + iOS
+`React` `Vite` `Chakra UI` `Node.js` `Express` `MongoDB` `Groq API` `Swift (iOS)`
+> Track meals, workouts, and recovery in one place, with a daily readiness score. The web app is live, and I'm building the iOS version.
 
-- Deployed a scalable **MERN architecture** incorporating hardened JWT state handling and protected operational layers.
-- Structured contextual AI microservices allowing high-speed personalized routine iteration based on individual metrics.
-- Boosted dashboard telemetry speeds by **40%** utilizing precise query tuning and local caching policies.
+- Built meal and workout logging with **React, Express, and MongoDB**
+- Used the same **readiness calculation** on the frontend and backend so the score stays consistent
+- Added saved plans, coach conversations that sync across devices, and food and exercise search
+- Let users export their data or delete their account
+- Currently building a **native iOS app with Swift**
 
 ### ❤️ [Corazones Vivos Inc.](https://corazonesvivos.org) — Nonprofit Outreach Platform
 `Next.js` `TypeScript` `Tailwind CSS` `SEO` `Vercel`
-> Open-access non-profit hub managing regional resource coordination, community engagement, and event logistics.
+> A website for a nonprofit's outreach, volunteer information, and community events.
 
-- Architected full-stack deployment pipeline with DNS configuration, multi-environment Vercel CI/CD workflows, and SEO optimization achieving top-tier crawl indexing.
-- Designed accessible/semantically structured layouts maximizing organizational reach and community impact.
+- Built the site with **Next.js and TypeScript**, and set up the domain and **Vercel** deployment
+- Organized the pages with semantic HTML and added search metadata to help people find the organization
 
 <br/>
 
@@ -169,17 +171,18 @@
 
 ## 🏁 Let's Build Together
 
-I'm always looking to tackle complex engineering problems, build production AI workflows, and ship scalable full-stack software.
+Most of my time outside school goes into building and improving my projects. I'm happy to talk about web development, Swift, or something you're working on.
 
 <div align="center">
 <br/>
 
-<a href="https://alejandroperezrivero.dev/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://alejandroperezrivero.tech/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/aperezrivero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alexperezr456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 <br/>
 
-🏁 **Open to software engineering roles, AI products, startup systems, and full-stack architecture.**
+🏁 **Joining Royal Caribbean Group in January 2027. Always happy to connect with other developers.**
 </div>
+

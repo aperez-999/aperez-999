@@ -5,9 +5,6 @@
 # 🏎️ Alejandro Perez-Rivero
 **Software Engineer | Full-Stack & iOS Development**  
 *Incoming Associate Software Engineer at Royal Caribbean Group — January 2027.*
-
-` 🔰 Building for the web. Learning through mobile. `
-
 <br/>
 
 <a href="https://alejandroperezrivero.tech/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -15,7 +12,6 @@
 <a href="mailto:alexperezr456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=aperez-999&style=for-the-badge&color=2DB47D&label=RPM+VIEWS" alt="Profile views" />
 
-<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -92,16 +88,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Symmetrically bound two-card horizontal grid using alternative reliable backend servers -->
-  <p align="center">
-    <img src="https://github-readme-stats-six-beige.vercel.app/api?username=aperez-999&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=2DB47D&icon_color=2DB47D&text_color=9effff&bg_color=1a1b27&hide_border=true" height="195px" alt="Alejandro's GitHub Stats" />
     <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aperez-999&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak"
   />
-  <br />
-  <!-- Seamless Dynamic 3D Area Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aperez-999&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=2DB47D&line=2DB47D&point=FFFFFF&area=true" alt="Contribution Graph" width="95%" />
 </div>
 
 <br/>
@@ -179,10 +169,5 @@ Most of my time outside school goes into building and improving my projects. I'm
 <a href="https://alejandroperezrivero.tech/"><img src="https://img.shields.io/badge/Portfolio-2DB47D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/aperezrivero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alexperezr456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/>
-<br/>
-
-🏁 **Joining Royal Caribbean Group in January 2027. Always happy to connect with other developers.**
 </div>
 
